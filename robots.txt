@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nemoxis.github.io/simonepiobarbagallo.github.io/sitemap.xml
+Sitemap: https://nemoxis.github.io/simonepiobarbagallo/sitemap.xml
